@@ -25,8 +25,10 @@ You want the participants to spend as much time as possible focusing on the more
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
 
 ### Point of Contact
-List all available mentors here.
-
+Janine Stuchl
+Lars Norman Moritz
+Yagmur Gül
+Christopher Patschkowski
 ### Mentors Availability 
 List the physical availability of Mentors and availability on Discord 
 
