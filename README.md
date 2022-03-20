@@ -21,6 +21,8 @@ List all relevant resources and tools here.
 Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
 You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
 
+For access to PTV APIs please write PTV_Christopher on Discord
+
 ### Judging Criteria
 Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
 
@@ -29,8 +31,17 @@ Janine Stuchl
 Lars Norman Moritz
 Yagmur Gül
 Christopher Patschkowski
+
 ### Mentors Availability 
 List the physical availability of Mentors and availability on Discord 
+
+Wednesday 4pm to Friday 4pm:
+Lars Norman Moritz
+Yagmur Gül
+Christopher Patschkowski
+
+THursday to Friday 4pm:
+Janine Stuchl
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
