@@ -25,10 +25,8 @@ Insert any further information about the hack case, the topic and related projec
 Give as much context as possible, in order to give your coders a head start!
 
 ### Resources
-List all relevant resources and tools here.
-Also links to potentially relevant databases, tools, software applications can be helpful to give coders more stuff to work with and be creative.
-You want the participants to spend as much time as possible focusing on the more creative and complex aspects of your challenge.
-
+Check out our Developer Components (incl. all documentation etc.)
+https://developer.myptv.com/
 For access to PTV APIs please write PTV_Christopher on Discord
 
 ### Judging Criteria
