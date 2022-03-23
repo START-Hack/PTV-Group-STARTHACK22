@@ -40,8 +40,9 @@ Lars Norman Moritz
 Yagmur Gül
 Christopher Patschkowski
 
-THursday to Friday 4pm:
+Thursday to Friday 4pm:
 Janine Stuchl
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
+Nintendo Switches and other goodies for every winner
