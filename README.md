@@ -7,10 +7,10 @@ What do you expect from the winning team?
 Are you planning on further developing this project after the START Hack?
 
 ### Case Pitch
-Insert your Pitch Video or Slides here
+https://github.com/START-Hack/PTV-Group-STARTHACK22/blob/a3fc3a12f61b3b6318bd2c86e591e0a384ee432e/2022-03-17%20START%20Hack%20Presentation.pptx
 
 ### Deep Dive Slides
-Insert materials from your Deep Dives here
+https://github.com/START-Hack/PTV-Group-STARTHACK22/blob/a3fc3a12f61b3b6318bd2c86e591e0a384ee432e/2022-03-17%20START%20Hack%20Presentation%20-%20Deep%20Dive.pdf
 
 ### Further Information
 Insert any further information about the hack case, the topic and related projects.
@@ -24,7 +24,7 @@ You want the participants to spend as much time as possible focusing on the more
 For access to PTV APIs please write PTV_Christopher on Discord
 
 ### Judging Criteria
-Insert a description of your grading scheme here! What are you looking for? What outcome do you expect?
+https://github.com/START-Hack/PTV-Group-STARTHACK22/blob/a3fc3a12f61b3b6318bd2c86e591e0a384ee432e/2022-03-20%20Judging%20Criteria.pdf
 
 ### Point of Contact
 Janine Stuchl
@@ -45,4 +45,5 @@ Janine Stuchl
 
 ### Prize
 Let the participants know what will be expecting the winning Team!
+https://github.com/START-Hack/PTV-Group-STARTHACK22/blob/a3fc3a12f61b3b6318bd2c86e591e0a384ee432e/PTV%20Challenge%20Price.png
 Nintendo Switches and other goodies for every winner
